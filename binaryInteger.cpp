@@ -1,4 +1,4 @@
-﻿/** @file hw2.cpp
+﻿/** @file binaryInteger.cpp
 @brief Declares, defines and implements an Integer class
 @author Connor Hennen
 @date October 4, 2016
