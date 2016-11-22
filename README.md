@@ -1,0 +1,2 @@
+# binaryInteger
+An custom class is defined, designed to mimic the int data type but with no inherent limit on the size of the number to be stored. There is a variable for the binary representation of the number, and functions for performing and outputting the results of addition and multiplication, as well as comparisons. The main function performs and outputs arithmetic and comparisons with this custom class
